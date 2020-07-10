@@ -1,0 +1,16 @@
+.btn{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.input{
+    font-weight: bold;
+    width: 250px;
+    height: 20px;
+}
+
+.added-sites{
+    text-align: left;
+    margin-top: 15vh;
+    margin-left: 5vh;
+}
