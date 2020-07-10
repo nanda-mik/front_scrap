@@ -5,12 +5,7 @@
 
 .input{
     font-weight: bold;
-    width: 250px;
-    height: 20px;
-}
-
-.added-sites{
-    text-align: left;
-    margin-top: 15vh;
-    margin-left: 5vh;
+    width: 500px;
+    height: 30px;
+    padding: 2px;
 }
